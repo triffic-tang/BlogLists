@@ -30,7 +30,7 @@
 | [穷折腾](http://blog.zorro.im/)| | <http://blog.zorro.im/rss.xml> |  |  
 | [kn007的个人博客](https://kn007.net/) |  | <https://kn007.net/feed/> | postfix，autoit，php，mysql，nginx，kindle，wordpress，音乐，生活 |
 | [solarhell博客](http://blog.solarhell.com/) |  | <http://blog.solarhell.com/atom.xml> |  |
-| [ykqmain](http://blog.ykqmain.com/) |  |  |  |
+| [iAnna](http://blog.ykqmain.com/) |  | <http://blog.ykqmain.com/atom.xml> | Developer, Network, iOS, Swift, Python, ACG |
 | [黄蜂说](https://www.sjy.im/) |  |  | 自主创业,IT农民工 |
 | [leonax](https://leonax.net/) |  |  |  |
 | [solarhell](http://blog.solarhell.com/) |  |  |  |
