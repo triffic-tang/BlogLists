@@ -1,68 +1,46 @@
-# BlogLists
 
-深度，有料的Blog的聚集地，欢迎来fork, pull
+## 更全面的中文 blog 列表(自诩的，别喷)
 
-来晒下的blog不？
-
-
-V友反响热烈，实在是太多了，请各位自行添加
-
-
-1.<https://kn007.net/>
-
-```
-博主自述：一位低调90后的blog
-```
 ---
+**不知道为什么会有这么一个对Blog进行索引的想法，或许自己平时关注，浏览博客和公众号，得到了很多有营养的内容，所以忍不住想分享**
+> 互联网时代不缺乏原创优质的内容吧，人人都为自己代言
 
-2.<http://blog.solarhell.com/>
+**好了，应该就是上面这个原因了，所以花点时间进行整理(目前大部分内容都来自V友的回复，[曾经发了这么一个征帖](http://v2ex.com/t/248896#reply133))，然后有下面几点说明：**
 
-```
-博主自述：
-```
+- 目前这个分类需要感谢@JGINGIT，当然后续还可以进行更加合理的分类
+- 加入博主`微信公众号`(如有)的原因是：现在很多人已经习惯在移动端阅读
+- 索引列别会持续不定时更新
+- **如果做这件事有一点意义，希望你多多提供意见，让意义越来越大**
+- `目前博客分类，便签都不一定合理，侵犯到你了，请指出，谢谢`
+
+**最后如果你也想把你辛苦打造出来的个人Blog展示分享给大家，请动动手指，在[这个链接](https://github.com/jerrycave/BlogLists/issues/3)中按照规范提交博客信息**
 
 ---
 
-3.<http://blog.ykqmain.com/>
 
-```
-博主自述：
-```
+### 技术篇
 
----
+| 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
+| ------------ | ------------- | ------------ | ---- |
+| [池大大Mactalk](http://macshuo.com/) | MacTalk  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
+| [kn007的个人博客](https://kn007.net/) |  |  |  |
+| [solarhell博客](http://blog.solarhell.com/) |  | <http://blog.solarhell.com/atom.xml> |  |
+| [ykqmain](http://blog.ykqmain.com/) |  |  |  |
+| [黄蜂说](https://www.sjy.im/) |  |  | 自主创业,IT农民工 |
+| [leonax](https://leonax.net/) |  |  |  |
+| [solarhell](http://blog.solarhell.com/) |  |  |  |
+| [timwang](http://wiki.timwang.me/) |  |  |  |
+| [virusdefender](https://virusdefender.net/) |  |  |  |
 
-4.<https://www.sjy.im/>
 
-```
-博主自述：
-```
-
----
-
-5.<https://leonax.net/>
-
-```
-博主自述：
-```
-
----
-
-6.<http://wiki.timwang.me/>
-
-```
-博主自述：
-```
-
----
-
-7.<https://virusdefender.net/>
-
-```
-博主自述：
-```
-
----
-...
+### App篇
+| 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
+| ------------ | ------------- | ------------ | ---- |
+| [Mactalk](http://macshuo.com/) | MacTalk  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
 
 
 
+### 人文篇
+| 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
+| ------------ | ------------- | ------------ | ---- |
+| [Mactalk](http://macshuo.com/) | MacTalk  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
