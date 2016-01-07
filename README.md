@@ -24,7 +24,10 @@
 | ------------ | ------------- | ------------ | ---- |
 | [池大大Mactalk](http://macshuo.com/) | sagacity-mac  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
 | [Triffic Blog](http://www.triffic.cc/) | umtango  |  | 阅读，Java，BI |
-| [kn007的个人博客](https://kn007.net/) |  |  |  |
+| [耗子吴](http://ratwu.com/) | PMCRAFT | | √90后　√主流　√宅男　√伪极客　√android手机　×逛街　×美食 |
+| [Cizixs Writes Here](http://cizixs.com/) | | <http://cizixs.com/feed.xml> | Tech, Python, Reading, Life, And Love. |
+| [穷折腾](http://blog.zorro.im/)| | <http://blog.zorro.im/rss.xml> |  |  
+| [kn007的个人博客](https://kn007.net/) |  | <https://kn007.net/feed/> | postfix，autoit，php，mysql，nginx，kindle，wordpress，音乐，生活 |
 | [solarhell博客](http://blog.solarhell.com/) |  | <http://blog.solarhell.com/atom.xml> |  |
 | [ykqmain](http://blog.ykqmain.com/) |  |  |  |
 | [黄蜂说](https://www.sjy.im/) |  |  | 自主创业,IT农民工 |
@@ -42,11 +45,14 @@
 ### App篇
 | 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
 | ------------ | ------------- | ------------ | ---- |
-| [Mactalk](http://macshuo.com/) | MacTalk  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
+| [Mactalk](http://macshuo.com/) | sagacity-mac  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
 
 
 
 ### 人文篇
 | 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
 | ------------ | ------------- | ------------ | ---- |
-| [Mactalk](http://macshuo.com/) | MacTalk  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
+| [Mactalk](http://macshuo.com/) | sagacity-mac  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
+| [菜刀摄影](http://www.caidaoli.com/) | CSBike | | 老李菜刀户外、骑行、旅行、摄影图片 |
+| [晚晴幽草轩](http://www.jeffjade.com/) |  |  | 技术总结+工具使用心得+（音乐+电影+旅行）而已 |
+| [屠城](https://www.haomwei.com/) |  | <https://www.haomwei.com/atom.xml> | Typecho 博客 VPS |
