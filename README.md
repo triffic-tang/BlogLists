@@ -46,6 +46,7 @@
 | 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
 | ------------ | ------------- | ------------ | ---- |
 | [Mactalk](http://macshuo.com/) | sagacity-mac  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
+| [通天塔](https://ttt.tt/)| 235701 |  | 关注互联网，关注Wordpress|
 
 
 
