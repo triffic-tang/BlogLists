@@ -22,7 +22,8 @@
 
 | 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
 | ------------ | ------------- | ------------ | ---- |
-| [池大大Mactalk](http://macshuo.com/) | MacTalk  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
+| [池大大Mactalk](http://macshuo.com/) | sagacity-mac  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
+| [Triffic Blog](http://www.triffic.cc/) | umtango  |  | 阅读，Java，BI |
 | [kn007的个人博客](https://kn007.net/) |  |  |  |
 | [solarhell博客](http://blog.solarhell.com/) |  | <http://blog.solarhell.com/atom.xml> |  |
 | [ykqmain](http://blog.ykqmain.com/) |  |  |  |
@@ -31,6 +32,11 @@
 | [solarhell](http://blog.solarhell.com/) |  |  |  |
 | [timwang](http://wiki.timwang.me/) |  |  |  |
 | [virusdefender](https://virusdefender.net/) |  |  |  |
+| [厘米天空](http://www.cmsky.com/) |  | <http://www.cmsky.com/feed/> | 非码农，只是自己的记事本 |
+| [孔方宇](http://kongfangyu.com/) |  | <http://kongfangyu.com/atom.xml> | 阿里云,Nodejs |
+| [Neo Su's Blog \| Learn&Grow Up](https://blog.smemo.info/) |  |  | Swift, Js |
+| [PSYcHiC](http://www.quake0day.com/) |  | <http://www.quake0day.com/feed/rss> | 日记, 作品, 技巧分享 |
+| [菊部受审](http://www.jubushoushen.com/) |  |  | 科学上网、破解软件 |
 
 
 ### App篇
