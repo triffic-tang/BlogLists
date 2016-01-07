@@ -25,7 +25,7 @@
 | [池大大Mactalk](http://macshuo.com/) | sagacity-mac  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
 | [Triffic Blog](http://www.triffic.cc/) | umtango  |  | 阅读，Java，BI |
 | [耗子吴](http://ratwu.com/) | PMCRAFT | | √90后　√主流　√宅男　√伪极客　√android手机　×逛街　×美食 |
-| [Phodal - Growth Engineer](https://www.phodal.com/) | ![Smaller icon](./imgs/wechat/phodal.jpg =80x80) | <https://www.phodal.com/blog/feeds/rss/> | SEO、前端、后台、硬件、架构 | 
+| [Phodal - Growth Engineer](https://www.phodal.com/) | ![Smaller icon](/imgs/wechat/phodal.jpg =80x80) | <https://www.phodal.com/blog/feeds/rss/> | SEO、前端、后台、硬件、架构 | 
 | [Cizixs Writes Here](http://cizixs.com/) | | <http://cizixs.com/feed.xml> | Tech, Python, Reading, Life, And Love. |
 | [穷折腾](http://blog.zorro.im/)| | <http://blog.zorro.im/rss.xml> |  |  
 | [kn007的个人博客](https://kn007.net/) |  | <https://kn007.net/feed/> | postfix，autoit，php，mysql，nginx，kindle，wordpress，音乐，生活 |
