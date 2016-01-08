@@ -26,7 +26,7 @@
 
 | 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
 | ------------ | ------------- | ------------ | ---- |
-| [池大大Mactalk](http://macshuo.com/) | sagacity-mac  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
+| [池大大Mactalk](http://macshuo.com/) | <img src="/imgs/wechat/mactalk.jpg" width="80" height="80">  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
 | [Triffic Blog](http://www.triffic.cc/) | <img src="/imgs/wechat/triffic.jpg" width="80" height="80">  |  | 阅读，Java，BI |
 | [耗子吴](http://ratwu.com/) | PMCRAFT | | √90后　√主流　√宅男　√伪极客　√android手机　×逛街　×美食 |
 | [Phodal - Growth Engineer](https://www.phodal.com/) | <img src="/imgs/wechat/phodal.jpg" width="80" height="80"> | <https://www.phodal.com/blog/feeds/rss/> | SEO、前端、后台、硬件、架构 | 
@@ -61,6 +61,6 @@
 | 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
 | ------------ | ------------- | ------------ | ---- |
 | [Mactalk](http://macshuo.com/) | sagacity-mac  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
-| [菜刀摄影](http://www.caidaoli.com/) | CSBike | | 老李菜刀户外、骑行、旅行、摄影图片 |
+| [菜刀摄影](http://www.caidaoli.com/) | <img src="/imgs/wechat/csbike.jpg" width="80" height="80"> | | 老李菜刀户外、骑行、旅行、摄影图片 |
 | [晚晴幽草轩](http://www.jeffjade.com/) |  |  | 技术总结+工具使用心得+（音乐+电影+旅行）而已 |
 | [屠城](https://www.haomwei.com/) |  | <https://www.haomwei.com/atom.xml> | Typecho 博客 VPS |
