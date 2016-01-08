@@ -31,6 +31,8 @@
 | [kn007的个人博客](https://kn007.net/) |  | <https://kn007.net/feed/> | postfix，autoit，php，mysql，nginx，kindle，wordpress，音乐，生活 |
 | [solarhell博客](http://blog.solarhell.com/) |  | <http://blog.solarhell.com/atom.xml> |  |
 | [iAnna](http://blog.ykqmain.com/) |  | <http://blog.ykqmain.com/atom.xml> | Developer, Network, iOS, Swift, Python, ACG |
+| [叉叉哥的BLOG](http://xxgblog.com/) | | <http://xxgblog.com/atom.xml> | Java, JavaScript |
+| [前端集合]( http://geek100.com/) | | <http://feeds2.feedburner.com/twetw/> | 技术,前端,互联网,免费资源 |
 | [黄蜂说](https://www.sjy.im/) |  |  | 自主创业,IT农民工 |
 | [leonax](https://leonax.net/) |  |  |  |
 | [solarhell](http://blog.solarhell.com/) |  |  |  |
