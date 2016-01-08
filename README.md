@@ -17,6 +17,10 @@
 
 ---
 
+## 几点来自网友的建议
+- 大家可以通过安装[Wide Github](https://github.com/xthexder/wide-github)来获得更好的阅读体验，感谢@[kn007](https://github.com/jerrycave/BlogLists/issues/4)
+
+---
 
 ### 技术篇
 
