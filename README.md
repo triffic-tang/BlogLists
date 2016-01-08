@@ -32,7 +32,7 @@
 | [Phodal - Growth Engineer](https://www.phodal.com/) | <img src="/imgs/wechat/phodal.jpg" width="80" height="80"> | <https://www.phodal.com/blog/feeds/rss/> | SEO、前端、后台、硬件、架构 | 
 | [Cizixs Writes Here](http://cizixs.com/) | | <http://cizixs.com/feed.xml> | Tech, Python, Reading, Life, And Love. |
 | [穷折腾](http://blog.zorro.im/)| | <http://blog.zorro.im/rss.xml> |  |  
-| [kn007的个人博客](https://kn007.net/) |  | <https://kn007.net/feed/> | postfix，autoit，php，mysql，nginx，kindle，wordpress，音乐，生活 |
+| [kn007的个人博客](https://kn007.net/) | <img src="/imgs/wechat/kn007.jpg" width="80" height="80"> | <https://kn007.net/feed/> | postfix，autoit，php，mysql，nginx，kindle，wordpress，音乐，生活 |
 | [solarhell博客](http://blog.solarhell.com/) |  | <http://blog.solarhell.com/atom.xml> |  |
 | [iAnna](http://blog.ykqmain.com/) |  | <http://blog.ykqmain.com/atom.xml> | Developer, Network, iOS, Swift, Python, ACG |
 | [叉叉哥的BLOG](http://xxgblog.com/) | | <http://xxgblog.com/atom.xml> | Java, JavaScript |
