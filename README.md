@@ -33,6 +33,7 @@
 | [Cizixs Writes Here](http://cizixs.com/) | | <http://cizixs.com/feed.xml> | Tech, Python, Reading, Life, And Love. |
 | [穷折腾](http://blog.zorro.im/)| | <http://blog.zorro.im/rss.xml> |  |  
 | [kn007的个人博客](https://kn007.net/) | <img src="/imgs/wechat/kn007.jpg" width="80" height="80"> | <https://kn007.net/feed/> | postfix，autoit，php，mysql，nginx，kindle，wordpress，音乐，生活 |
+| [1A23 Labs](https://blog.1a23.com) | | <https://blog.1a23.com/atom.xml> | Web, Python, PHP, Vocaloid, Miscellaneous |
 | [solarhell博客](http://blog.solarhell.com/) |  | <http://blog.solarhell.com/atom.xml> |  |
 | [iAnna](http://blog.ykqmain.com/) |  | <http://blog.ykqmain.com/atom.xml> | Developer, Network, iOS, Swift, Python, ACG |
 | [叉叉哥的BLOG](http://xxgblog.com/) | | <http://xxgblog.com/atom.xml> | Java, JavaScript |
