@@ -40,7 +40,7 @@
 | [前端集合]( http://geek100.com/) | | <http://feeds2.feedburner.com/twetw/> | 技术,前端,互联网,免费资源 |
 | [黄蜂说](https://www.sjy.im/) |  |  | 自主创业,IT农民工 |
 | [leonax](https://leonax.net/) |  |  |  |
-| [solarhell](http://blog.solarhell.com/) |  |  |  |
+| [solarhell 的博客](http://blog.solarhell.com/) |  | <http://blog.solarhell.com/feed/> | Flask, 运维, Nginx |
 | [timwang](http://wiki.timwang.me/) |  |  |  |
 | [virusdefender](https://virusdefender.net/) |  |  |  |
 | [厘米天空](http://www.cmsky.com/) |  | <http://www.cmsky.com/feed/> | 非码农，只是自己的记事本 |
