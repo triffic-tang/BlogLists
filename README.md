@@ -47,6 +47,7 @@
 | [孔方宇](http://kongfangyu.com/) |  | <http://kongfangyu.com/atom.xml> | 阿里云,Nodejs |
 | [Neo Su's Blog \| Learn&Grow Up](https://blog.smemo.info/) |  |  | Swift, Js |
 | [PSYcHiC](http://www.quake0day.com/) |  | <http://www.quake0day.com/feed/rss> | 日记, 作品, 技巧分享 |
+| [Programming is like Sex](http://fancywt.cn/) | | <http://fancywt.cn/atom.xml/> | Swift，Cocoa，生活 |
 | [菊部受审](http://www.jubushoushen.com/) |  |  | 科学上网、破解软件 |
 
 
