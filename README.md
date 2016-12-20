@@ -24,14 +24,14 @@
 
 ### 技术篇
 
-| 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
+| 博客名 | 博主公众号 | RSS地址 | TAG(标签) |
 | ------------ | ------------- | ------------ | ---- |
 | [池大大Mactalk](http://macshuo.com/) | <img src="/imgs/wechat/mactalk.jpg" width="80" height="80">  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
-| [Triffic Blog](http://www.triffic.cc/) | <img src="/imgs/wechat/triffic.jpg" width="80" height="80">  |  | 阅读，Java，BI |
+| [Triffic Blog](http://www.weicorner.cc/) | <img src="/imgs/wechat/triffic.jpg" width="80" height="80">  |  | 阅读，Java，BI |
 | [耗子吴](http://ratwu.com/) | PMCRAFT | | √90后　√主流　√宅男　√伪极客　√android手机　×逛街　×美食 |
-| [Phodal - Growth Engineer](https://www.phodal.com/) | <img src="/imgs/wechat/phodal.jpg" width="80" height="80"> | <https://www.phodal.com/blog/feeds/rss/> | SEO、前端、后台、硬件、架构 | 
+| [Phodal - Growth Engineer](https://www.phodal.com/) | <img src="/imgs/wechat/phodal.jpg" width="80" height="80"> | <https://www.phodal.com/blog/feeds/rss/> | SEO、前端、后台、硬件、架构 |
 | [Cizixs Writes Here](http://cizixs.com/) | | <http://cizixs.com/feed.xml> | Tech, Python, Reading, Life, And Love. |
-| [穷折腾](http://blog.zorro.im/)| | <http://blog.zorro.im/rss.xml> |  |  
+| [穷折腾](http://blog.zorro.im/)| | <http://blog.zorro.im/rss.xml> |  |
 | [kn007的个人博客](https://kn007.net/) | <img src="/imgs/wechat/kn007.jpg" width="80" height="80"> | <https://kn007.net/feed/> | postfix，autoit，php，mysql，nginx，kindle，wordpress，音乐，生活 |
 | [1A23 Labs](https://blog.1a23.com) | | <https://blog.1a23.com/atom.xml> | Web, Python, PHP, Vocaloid, Miscellaneous |
 | [solarhell博客](http://blog.solarhell.com/) |  | <http://blog.solarhell.com/atom.xml> |  |
@@ -52,7 +52,7 @@
 
 
 ### App篇
-| 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
+| 博客名 | 博主公众号 | RSS地址 | TAG(标签) |
 | ------------ | ------------- | ------------ | ---- |
 | [Mactalk](http://macshuo.com/) | sagacity-mac  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
 | [通天塔](https://ttt.tt/)| 235701 |  | 关注互联网，关注Wordpress|
@@ -60,7 +60,7 @@
 
 
 ### 人文篇
-| 博客名 | 博主公众号 | RSS地址 | TAG(标签) | 
+| 博客名 | 博主公众号 | RSS地址 | TAG(标签) |
 | ------------ | ------------- | ------------ | ---- |
 | [Mactalk](http://macshuo.com/) | sagacity-mac  | <http://macshuo.com/?feed=rss2> | Apple，情怀，思考 |
 | [菜刀摄影](http://www.caidaoli.com/) | <img src="/imgs/wechat/csbike.jpg" width="80" height="80"> | | 老李菜刀户外、骑行、旅行、摄影图片 |
